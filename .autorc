@@ -1,0 +1,11 @@
+{
+  "plugins": [
+    "git-tag",
+    "all-contributors",
+    "first-time-contributor",
+    "released"
+  ],
+  "owner": "Santo-Philip",
+  "repo": "container-vxxm7sw",
+  "name": "Santo-Philip",
+}
